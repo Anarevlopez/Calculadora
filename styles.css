@@ -1,0 +1,25 @@
+body {
+  background-color: antiquewhite;
+  color: rgb(74, 63, 50);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+input,
+#resultado,
+h1,
+button {
+  margin: 20px 0 0 10px;
+}
+
+#resultado {
+  font-size: large;
+}
+
+button {
+  background-color: rgb(74, 63, 50);
+  color: antiquewhite;
+  border: rgb(74, 63, 50) 2px solid;
+  font-weight: bold;
+  padding: 5px 10px 5px 10px;
+  border-radius: 10px;
+}
