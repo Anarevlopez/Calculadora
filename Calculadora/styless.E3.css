@@ -21,7 +21,7 @@ body {
 }
 
 .margen {
-  padding: 20px 20px 20px 10px;
+  padding: 20px 20px 20px 20px;
 }
 
 #resultado {
@@ -54,6 +54,17 @@ button {
   padding: 5px 30px 5px 30px;
   border-radius: 10px;
   margin: 10px 10px 10px 10px;
+}
+
+.ejercicios a {
+  display: flex;
+  justify-content: center;
+  color: antiquewhite;
+  margin-bottom: 10px;
+}
+
+a:hover {
+  color: black;
 }
 
 @media (max-width: 680px) {
