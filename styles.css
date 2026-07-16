@@ -23,3 +23,11 @@ button {
   padding: 5px 10px 5px 10px;
   border-radius: 10px;
 }
+
+a {
+  color: rgb(74, 63, 50);
+}
+
+a:hover {
+  color: black;
+}
